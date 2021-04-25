@@ -2,3 +2,6 @@ float item 1, item2, item 3 , item 4, total
 read item 1, item2, item 3, item4
 total=item1+item2+item3+item 4
 print total
+if total >=1000 then 
+print discount 50OMR
+else no discount
